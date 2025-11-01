@@ -1,6 +1,6 @@
 // Auto-generated from deployments/sepolia
-export const MINER_ADDRESS = '0x0000000000000000000000000000000000000000' as const;
-export const GOLD_ADDRESS = '0x0000000000000000000000000000000000000000' as const;
+export const MINER_ADDRESS = '0xb4fc2700cf9943741150F1985A5822493f6B7fAD' as const;
+export const GOLD_ADDRESS = '0x52e20692f161580978dBBcDA8a214C3a12Fd1D45' as const;
 
 export const MINER_ABI = [
   {
