@@ -1,4 +1,4 @@
-# Confidential Miner - Privacy-Preserving NFT Mining Game
+# Confidential Staker - Privacy-Preserving NFT Mining Game
 
 A blockchain-based mining game that leverages Zama's Fully Homomorphic Encryption (FHE) technology to create a unique gaming experience where NFT attributes and token balances remain completely private while still enabling on-chain computation.
 
